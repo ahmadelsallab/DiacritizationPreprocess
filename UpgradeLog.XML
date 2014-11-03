@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Preprocessing">
+</Property><Property Name="Solution File" Value="D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Preprocessing.sln">
+</Property><Property Name="User Options File" Value="D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Preprocessing.suo">
+</Property><Property Name="Date" Value="Friday, August 31, 2012">
+</Property><Property Name="Time" Value="11:29 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Preprocessing.sln" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Preprocessing.suo" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing.suo">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\Preprocessing.csproj" Description="Project file successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\Preprocessing.csproj">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\Preprocessing.csproj.user" Description="Project user file successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\Preprocessing.csproj.user">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\BinaryFeaturesFormatter.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\BinaryFeaturesFormatter.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\BitFieldFeaturesFormatter.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\BitFieldFeaturesFormatter.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\ConfigurationManager.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\ConfigurationManager.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\ContextExtractor.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\ContextExtractor.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\FeaturesFormatter.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\FeaturesFormatter.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\Logger.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\Logger.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\NormalFeaturesFormatter.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\NormalFeaturesFormatter.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\OutputFileWriter.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\OutputFileWriter.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\Parser.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\Parser.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\Program.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\Program.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\Enums.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\Enums.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\Word.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\Word.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\WordFeatures.cs" Description="File successfully backed up as D:\Work\Research\PhD\Implementation\Diactrization\Preprocessing\Preprocessing_1.0\Backup\Preprocessing\WordFeatures.cs">
+</Event><Event ErrorLevel="0" Project="Preprocessing" Source="Preprocessing\Preprocessing.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Preprocessing" Source="Preprocessing\Preprocessing.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Preprocessing.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Preprocessing.sln" Description="Converted">
+</Event></UpgradeLog>

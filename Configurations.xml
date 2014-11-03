@@ -1,0 +1,23 @@
+<Configuration>
+  <ConfigurationParameter DebugMode="true"/>
+  <ConfigurationParameter ErrorLogMode="true"/>
+  <ConfigurationParameter ConsoleLogMode="true"/>
+  <ConfigurationParameter LogFile="e:\documents and settings\ASALLAB\Desktop\Flash\PhD_Flash\Implementation\Diactrization\Dataset\Single Cats\Literature\log.txt"/>
+  <!--ConfigurationParameter RootDirectory="e:\documents and settings\ASALLAB\Desktop\Flash\PhD_Flash\Implementation\Diactrization\Dataset\1M Mosaraf"/-->
+  <ConfigurationParameter RootDirectory="e:\documents and settings\ASALLAB\Desktop\Flash\PhD_Flash\Implementation\Diactrization\Dataset\Single Cats\Literature"/>  
+  <ConfigurationParameter MrfFolderName="التحليل الصرفي"/>
+  <ConfigurationParameter PosFolderName="الأنواع الكلامية"/>
+  <ConfigurationParameter DirectorySeparator="\"/>
+  <ConfigurationParameter FileExensionSeparator="."/>
+  <ConfigurationParameter MrfFileExtension="mrf"/>
+  <ConfigurationParameter POSFileExtension="pos"/>
+  <ConfigurationParameter SuppressErrType="6"/>
+  <ConfigurationParameter SuppressErrType="8"/>
+  <ConfigurationParameter FeaturesFormat="Binary"/>
+  <ConfigurationParameter OutputFeatures="MrfAndPOS"/>
+  <ConfigurationParameter ContextLength="3"/>
+  <ConfigurationParameter OutputFile="e:\documents and settings\ASALLAB\Desktop\Flash\PhD_Flash\Implementation\Diactrization\Dataset\Single Cats\Literature\features"/>
+  <ConfigurationParameter OutputFileFormat="TxtFile"/>
+  <ConfigurationParameter MatlabFilePath="e:\documents and settings\ASALLAB\Desktop\Flash\PhD_Flash\Implementation\Generic Classifier\Generic_Classifier_0.3"/>
+  <ConfigurationParameter MatlabFunctionName="DCONV_convertMatlabInput"/>
+</Configuration>
